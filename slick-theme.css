@@ -79,7 +79,7 @@
 
 .slick-prev
 {
-    left: -80px;
+    left: -100px;
 }
 [dir='rtl'] .slick-prev
 {
@@ -137,7 +137,6 @@
 .slick-dots li
 {
     position: relative;
-
     display: inline-block;
 
     width: 20px;
